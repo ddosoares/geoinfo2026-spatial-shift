@@ -1,0 +1,12 @@
+earthengine-api
+geemap
+rioxarray
+rasterio
+scikit-learn
+scikit-image
+torch
+torchvision
+matplotlib
+seaborn
+gstools
+ipywidgets
